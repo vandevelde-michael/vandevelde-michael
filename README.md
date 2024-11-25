@@ -8,7 +8,7 @@
 
 - J'ai appris les bases de Python et voici mon premier projet [TikTakToe](https://github.com/vandevelde-michael/TicTacToe/blob/main/TicTacToe.py)
 
-- J'apprends actuellement les langages, HTML 5 et CSS et voici mon premier projet sur mon apprentissage [Fan Site] (https://github.com/MerlinFache/Projet-FanSite)
+- J'apprends actuellement les langages, HTML 5 et CSS et voici mon premier projet sur mon apprentissage [Fan Site](https://github.com/MerlinFache/Projet-FanSite)
 
 - j'ai aussi acquis les fondamentaux de la cybersécurité avec une formation en ligne Coursera [Google certificate](https://www.coursera.org/account/accomplishments/verify/T7KB4XW87WXE)
 
