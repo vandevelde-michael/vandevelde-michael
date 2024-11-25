@@ -3,7 +3,7 @@
   width="1000"
   height="300"
 />
-<h1 align="center">Bonjour 👋 je suis Vandevelde michael</h1>
+<h1 align="center">Bonjour 👋🏼 je suis Vandevelde michael</h1>
 <h3 align="center">Élève à la plateforme, passionné par les jeux vidéo et l'informatique.</h3>
 
 - J'ai appris les bases de Python et voici mon premier projet [TikTakToe](https://github.com/vandevelde-michael/TicTacToe/blob/main/TicTacToe.py)
