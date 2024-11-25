@@ -11,7 +11,7 @@
 
 - J'apprends actuellement les langages, HTML 5 et CSS et voici mon premier projet sur mon apprentissage [Fan Site] (https://github.com/MerlinFache/Projet-FanSite)
 
-- Pour me joindre **michael.vandevelde@laplateforme.io**
+- Pour me joindre 📩 **michael.vandevelde@laplateforme.io**
 
 <p align="left">
 </p>
