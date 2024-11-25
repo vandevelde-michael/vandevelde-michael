@@ -1,7 +1,7 @@
 <img
   align="center" src="https://github.com/user-attachments/assets/00de625f-daf0-4e83-879a-7aa027261945"
   width="1000"
-  height="200"
+  height="300"
 />
 <h1 align="center">Bonjour 👋 je suis Vandevelde michael</h1>
 <h3 align="center">Élève à la plateforme, passionné par les jeux vidéo et l'informatique.</h3>
