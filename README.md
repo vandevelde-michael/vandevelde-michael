@@ -10,8 +10,7 @@
   <img
   align="center" src="https://github.com/user-attachments/assets/9e138103-bc95-44bb-96dd-eb2c8f97d1e8"
   />
- 
-- J'apprends actuellement les langages, HTML 5 et CSS et voici mon premier projet sur mon apprentissage [Fan Site](https://github.com/MerlinFache/Projet-FanSite)
+ - J'apprends actuellement les langages, HTML 5 et CSS et voici mon premier projet sur mon apprentissage [Fan Site](https://github.com/MerlinFache/Projet-FanSite)
 ![FanSite](https://github.com/user-attachments/assets/0589a185-aafb-419f-9c99-db2034bdba05)
 
 
