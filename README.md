@@ -19,6 +19,8 @@
 
 ![CERTIFICATE_LANDING_PAGE~T7KB4XW87WXE](https://github.com/user-attachments/assets/2d6508e2-d379-454b-ae82-6ffbe1b67ad1)
 
+- Mon portfolio 
+
 - Pour me joindre 📧 **michael.vandevelde@laplateforme.io**
 
 <p align="left">
