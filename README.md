@@ -3,8 +3,8 @@
   width="1000"
   height="320"
 />
-<h1 align="center"> Hello World 👋🏼</h1>
-<h3 align="center">je suis Vandevelde michael élève à la plateforme, passionné par les jeux vidéo et l'informatique.</h3>
+<h1 align="center" style="font-family: 'Impact', sans-serif; color: blue;">Hello World 👋🏼</h1>
+<h2 align="center">je suis Vandevelde michael élève à la plateforme, passionné par les jeux vidéo et l'informatique.</h3>
 
 - J'ai appris les bases de Python et voici mon premier projet [TikTakToe](https://github.com/vandevelde-michael/TicTacToe/blob/main/TicTacToe.py)
   <img
