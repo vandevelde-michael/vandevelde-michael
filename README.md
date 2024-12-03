@@ -4,11 +4,10 @@
   height="320"
 />
 
-<head>
-  <link href="https://fonts.googleapis.com/css2?family=Bangers&display=swap" rel="stylesheet">
-</head>
+<p align="center">
+  <img src="https://github.com/vandevelde-michael/vandevelde-michael/blob/main/HELLOWORLD.png?raw=true" alt="Hello World" width="300"/>
+</p>
 
-<h1 align="center"> Hello World 👋🏼</h1>
 
 <h2 align="center">Je suis Vandevelde Michael, élève à LaPlateforme, passionné par les jeux vidéo et l'informatique.</h2>
 
