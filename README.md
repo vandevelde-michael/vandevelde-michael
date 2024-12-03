@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://github.com/vandevelde-michael/vandevelde-michael/blob/main/HELLOWORLD.png?raw=true" alt="Hello World" width="300"/>
-</p>
+</p> 
 
 
 <h2 align="center">Je suis Vandevelde Michael, élève à LaPlateforme, passionné par les jeux vidéo et l'informatique.</h2>
