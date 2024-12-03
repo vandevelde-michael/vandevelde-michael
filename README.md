@@ -22,9 +22,12 @@
 
 
 
-- j'ai aussi acquis les fondamentaux de la cybersécurité avec une formation en ligne Coursera [Google certificate](https://www.coursera.org/account/accomplishments/verify/T7KB4XW87WXE)
+- J'ai aussi acquis les fondamentaux de la cybersécurité avec une formation en ligne Coursera, voici mon [certificat Google](https://www.coursera.org/account/accomplishments/verify/T7KB4XW87WXE) :
 
-![CERTIFICATE_LANDING_PAGE~T7KB4XW87WXE](https://github.com/user-attachments/assets/2d6508e2-d379-454b-ae82-6ffbe1b67ad1)
+<a href="https://raw.githubusercontent.com/vandevelde-michael/vandevelde-michael/main/google%20certificate.png">
+  <img src="https://raw.githubusercontent.com/vandevelde-michael/vandevelde-michael/main/google%20certificate.png" width="200" />
+</a>
+
 
 ## 🤝 Connect with me:
 
