@@ -10,9 +10,14 @@
   <img
   align="center" src="https://github.com/user-attachments/assets/9e138103-bc95-44bb-96dd-eb2c8f97d1e8"
   />
- - J'apprends actuellement les langages, HTML 5 et CSS et voici mon premier projet sur mon apprentissage [Fan Site](https://github.com/MerlinFache/Projet-FanSite)
+- J'apprends actuellement les langages HTML5 et CSS, et voici mon premier projet sur mon apprentissage :
 
-![FanSite](https://github.com/user-attachments/assets/0589a185-aafb-419f-9c99-db2034bdba05)
+<a href="https://raw.githubusercontent.com/vandevelde-michael/vandevelde-michael/main/giroud.jpg">
+  <img src="https://raw.githubusercontent.com/vandevelde-michael/vandevelde-michael/main/giroud.jpg" width="200" />
+</a>
+<a href="https://github.com/MerlinFache/Projet-FanSite">
+  <strong>Projet Fan Site</strong>
+</a>
 
 
 - j'ai aussi acquis les fondamentaux de la cybersécurité avec une formation en ligne Coursera [Google certificate](https://www.coursera.org/account/accomplishments/verify/T7KB4XW87WXE)
