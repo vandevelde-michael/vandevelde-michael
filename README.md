@@ -20,7 +20,8 @@
 ![CERTIFICATE_LANDING_PAGE~T7KB4XW87WXE](https://github.com/user-attachments/assets/2d6508e2-d379-454b-ae82-6ffbe1b67ad1)
 - J'ai aussi fait un portfolio en markdown https://vandevelde-michael.github.io/portfolio/
 
-- Pour me joindre 📧 **michael.vandevelde@laplateforme.io**
+- Pour me joindre par mail 📧 **michael.vandevelde@laplateforme.io** **https://www.linkedin.com/in/michael-vandevelde-81625033b/**
+- Pour me joindre via LinkedIn ![icons8-linkedin-24 (1)](https://github.com/user-attachments/assets/e70d8a4c-bffd-48bd-b85d-1173b40ed8aa) **https://www.linkedin.com/in/michael-vandevelde-81625033b/**
 
 <p align="left">
 </p>
