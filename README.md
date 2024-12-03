@@ -18,10 +18,15 @@
 - j'ai aussi acquis les fondamentaux de la cybersécurité avec une formation en ligne Coursera [Google certificate](https://www.coursera.org/account/accomplishments/verify/T7KB4XW87WXE)
 
 ![CERTIFICATE_LANDING_PAGE~T7KB4XW87WXE](https://github.com/user-attachments/assets/2d6508e2-d379-454b-ae82-6ffbe1b67ad1)
-- J'ai aussi fait un portfolio en markdown https://vandevelde-michael.github.io/portfolio/
 
-- Pour me joindre par mail 📧 **michael.vandevelde@laplateforme.io**
-- Pour me joindre via LinkedIn ![icons8-linkedin-24 (1)](https://github.com/user-attachments/assets/e70d8a4c-bffd-48bd-b85d-1173b40ed8aa) **https://www.linkedin.com/in/michael-vandevelde-81625033b/**
+## 🤝 Connect with me:
+
+<a href="mailto:michael.vandevelde@laplateforme.io"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="35px" /></a>
+<a href="https://www.instagram.com/le_mikyyy"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="35px" /></a>
+<a href="https://twitter.com/bbt_rabbit"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="35px" /></a>
+<a href="https://github.com/vandevelde-michael"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="35px" /></a>
+<a href="https://vandevelde-michael.github.io/portfolio/"><img src="https://img.icons8.com/color/48/000000/web-design.png" alt="Portfolio" width="35px" /></a>
+<a href="https://linkedin.com/in/michael-vandevelde-81625033b"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="35px" /></a>
 
 <p align="left">
 </p>
