@@ -28,9 +28,21 @@
 <a href="https://vandevelde-michael.github.io/portfolio/"><img src="https://img.icons8.com/color/48/000000/web-design.png" alt="Portfolio" width="35px" /></a>
 <a href="https://linkedin.com/in/michael-vandevelde-81625033b"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="35px" /></a>
 
+## 🛠️ Skills en apprentissage:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
+
+
+
 <p align="left">
 </p>
 
 <h3 align="left">En apprentissage ⌛ :</h3>
 
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href= "https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
