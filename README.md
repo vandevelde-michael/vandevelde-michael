@@ -46,8 +46,6 @@
 <a href="https://vandevelde-michael.github.io/portfolio/"><img src="https://img.icons8.com/color/48/000000/web-design.png" alt="Portfolio" width="35px" /></a>
 <a href="https://linkedin.com/in/michael-vandevelde-81625033b"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="35px" /></a>
 
-
-
 ## 🛠️ Skills en apprentissage:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -56,5 +54,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 
-<p align="left">
-</p>
+## 📊 Mes statistiques GitHub
+
+### Statistiques GitHub :
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vandevelde-michael&show_icons=true&count_private=true&hide_title=true&hide=prs)
+
+### Langages utilisés :
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vandevelde-michael&layout=compact)
+
