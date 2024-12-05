@@ -39,12 +39,13 @@
 
 ## 🤝 Connect with me:
 
-<a href="mailto:michael.vandevelde@laplateforme.io"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="35px" /></a>
-<a href="https://www.instagram.com/le_mikyyy"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="35px" /></a>
-<a href="https://twitter.com/bbt_rabbit"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="35px" /></a>
-<a href="https://github.com/vandevelde-michael"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="35px" /></a>
-<a href="https://vandevelde-michael.github.io/portfolio/"><img src="https://img.icons8.com/color/48/000000/web-design.png" alt="Portfolio" width="35px" /></a>
-<a href="https://linkedin.com/in/michael-vandevelde-81625033b"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="35px" /></a>
+<a href="mailto:michael.vandevelde@laplateforme.io" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="35px" /></a>
+<a href="https://www.instagram.com/le_mikyyy" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="35px" /></a>
+<a href="https://twitter.com/bbt_rabbit" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="35px" /></a>
+<a href="https://github.com/vandevelde-michael" target="_blank"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="35px" /></a>
+<a href="https://vandevelde-michael.github.io/portfolio/" target="_blank"><img src="https://img.icons8.com/color/48/000000/web-design.png" alt="Portfolio" width="35px" /></a>
+<a href="https://linkedin.com/in/michael-vandevelde-81625033b" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="35px" /></a>
+
 
 ## 🛠️ Skills en apprentissage:
 
