@@ -1,6 +1,6 @@
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/vandevelde-michael/vandevelde-michael/main/assets/hello_World.png" alt="Hello World" />
+  <img src="https://raw.githubusercontent.com/vandevelde-michael/vandevelde-michael/main/assets/hello_World.png" alt="Hello World" />
 </p>
 
 # 👋 Hello World, je suis Michael Vandevelde
@@ -16,8 +16,7 @@
 
 <p align="center">
   <a href="https://coursera.org/verify/7TX84W2W7XK">
-<img src="https://raw.githubusercontent.com/vandevelde-michael/vandevelde-michael/main/assets/Certificat_Google_Cyber.png" alt="Certificat Google" />
-
+    <img src="https://raw.githubusercontent.com/vandevelde-michael/vandevelde-michael/main/assets/Certificat_Google_Cyber.png" alt="Certificat Google" />
   </a>
 </p>
 
@@ -71,7 +70,7 @@ Rythme souhaité : **4 semaines entreprise / 1 semaine formation**.
 
 ---
 
-## 📊 GitHub Stats (optionnel)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vandevelde-michael&show_icons=true&theme=tokyonight" alt="Stats GitHub"/>
