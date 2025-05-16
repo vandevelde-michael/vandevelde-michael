@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/vandevelde-michael/vandevelde-michael/main/assets/hello_world.png" alt="Hello World" />
 </p>
 
-# 👋 Hello World, je suis Michael Vandevelde
+# 👋 Je suis Michael Vandevelde
 
 🎯 **Futur administrateur systèmes et réseaux**, actuellement en reconversion à [La Plateforme](https://laplateforme.io), Marseille.  
 🔐 Intéressé par la **cybersécurité**, l'**automatisation**, et les environnements **Windows Server**, **Linux**, **virtualisés**, et **réseau**.
