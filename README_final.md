@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vandevelde-michael/vandevelde-michael/main/assets/assets/hello_world.png" alt="Hello World" />
+  <img src="https://raw.githubusercontent.com/vandevelde-michael/vandevelde-michael/main/assets/hello_world.png" />
 </p>
 
 # 👋 Hello World, je suis Michael Vandevelde
