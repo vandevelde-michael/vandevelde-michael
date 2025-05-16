@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vandevelde-michael/vandevelde-michael/main/assets/banner_cyber.png" alt="Cyber Banner" style="width:100%;" />
+  <img src="https://raw.githubusercontent.com/vandevelde-michael/vandevelde-michael/main/assets/banner_cyber.png" alt="Cyber Banner" width="1280" height="640" />
 </p>
+
 
 # 👋 Hello World, je suis Michael Vandevelde
 
