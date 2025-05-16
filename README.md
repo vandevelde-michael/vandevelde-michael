@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vandevelde-michael/vandevelde-michael/main/assets/banner_cyber.png" alt="Cyber Banner" width="1280" height="640" />
+  <img src="https://raw.githubusercontent.com/vandevelde-michael/vandevelde-michael/main/assets/banner_cyber.png" alt="Cyber Banner" width="900" height="340" />
 </p>
 
 
