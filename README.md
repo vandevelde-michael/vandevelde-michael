@@ -5,7 +5,7 @@
 
 
 <h1 align="center">
-  <code>👋 Hello World, je suis Michael Vandevelde</code>
+  👋 Hello World, je suis Michael Vandevelde</code>
 </h1>
 
 
