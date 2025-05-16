@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vandevelde-michael/vandevelde-michael/main/assets/banner_cyber.png" alt="Cyber Banner" style="width:100%;" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/vandevelde-michael/vandevelde-michael/main/assets/hello_world.png" alt="Hello World" />
