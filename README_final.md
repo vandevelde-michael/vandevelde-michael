@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://coursera.org/verify/7TX84W2W7XK">
-    <img src="https://raw.githubusercontent.com/vandevelde-michael/vandevelde-michael/main/assets/certificat_google_cyber.png" alt="Certificat Google Cybersécurité" width="600"/>
+<img src="https://raw.githubusercontent.com/vandevelde-michael/vandevelde-michael/main/assets/certificat_google_cyber.png" alt="Certificat Google" />
   </a>
 </p>
 
