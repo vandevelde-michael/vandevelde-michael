@@ -9,12 +9,13 @@
 </h1>
 
 
-<p align="center">
+<p align="center" style="margin-bottom: 0;">
   💻 <strong>Futur administrateur systèmes et réseaux</strong>, actuellement en reconversion à <a href="https://laplateforme.io">La Plateforme</a>, Marseille. 💻
 </p>
-<p align="center">
-  💥 Intéressé par les solutions d’automatisation, et les environnements systèmes et réseaux sous Windows Server, Linux et en virtualisation. 💥
+<p align="center" style="margin-top: 0;">
+  💥 Intéressé par la cybersécurité, les solutions d’automatisation, et les environnements systèmes et réseaux sous Windows Server, Linux et en virtualisation. 💥
 </p>
+
 
 
 ## 🧾 Certificats & Formations en ligne
