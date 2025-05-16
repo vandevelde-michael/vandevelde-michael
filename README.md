@@ -1,66 +1,51 @@
-<img
-  align="center" 
-  src="https://github.com/user-attachments/assets/755d2675-8a5a-4ae1-a860-cf9e7f098492" 
-  width="1000"
-  height="320"
-/>
-
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vandevelde-michael/vandevelde-michael/refs/heads/main/helloworld.png" alt="Hello World" width="300"/>
+  <img src="https://img.shields.io/badge/-Michael%20Vandevelde-blue?style=flat&logo=github" alt="Michael Vandevelde" />
+  <img src="https://img.shields.io/badge/📍-Aix-en-Provence-lightgrey?style=flat" alt="Location" />
+  <img src="https://img.shields.io/badge/🎓-La%20Plateforme-orange?style=flat&logo=education" alt="École" />
 </p>
 
+# 👋 Salut, moi c’est Michael Vandevelde
 
+**En reconversion vers l'Administration Systèmes & Réseaux**  
+Passionné par l'automatisation, la cybersécurité et les environnements virtualisés.
 
-<h2 align="center">Je suis Vandevelde Michael, élève à LaPlateforme, passionné par les jeux vidéo et l'informatique.</h2>
+---
 
-- J'ai appris les bases de Python et voici mon premier projet [TikTakToe](https://github.com/vandevelde-michael/TicTacToe/blob/main/TicTacToe.py)
+## 🛠️ Compétences & Tech Stack
 
-<br>
+<p>
+  <img src="https://img.shields.io/badge/Linux-Ubuntu-333?style=flat&logo=ubuntu" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Windows_Server-2022-0078D6?style=flat&logo=windows" alt="Windows Server" />
+  <img src="https://img.shields.io/badge/🐚-Bash-informational?style=flat&logo=gnubash" alt="Bash" />
+  <img src="https://img.shields.io/badge/PowerShell-PS-blue?style=flat&logo=powershell" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/🕸️-TCP_IP-lightgrey?style=flat" alt="TCP/IP" />
+  <img src="https://img.shields.io/badge/Wireshark-Analyze-0099CC?style=flat&logo=wireshark" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/VMware-virtualization-607078?style=flat&logo=vmware" alt="VMware" />
+  <img src="https://img.shields.io/badge/PXE_WDS-deploy-green?style=flat" alt="PXE/WDS" />
+</p>
 
-<img align="center" src="https://github.com/user-attachments/assets/9e138103-bc95-44bb-96dd-eb2c8f97d1e8" width="150" />
+---
 
+## 📂 Mes projets phares
 
-- J'apprends actuellement les langages HTML5 et CSS, et voici mon premier projet sur mon apprentissage :
+| Projet | Description |
+|:------:|:-----------|
+| <img src="https://img.shields.io/badge/AD-Active_Directory-blue?style=flat&logo=microsoft" width="20"/> [Projet AD](https://github.com/vandevelde-michael/projet-ad) | Annuaire Windows Server 2022 : utilisateurs, groupes, GPO, scripts PowerShell |
+| <img src="https://img.shields.io/badge/PXE-WDS-orange?style=flat&logo=windows" width="20"/> [Projet PXE/WDS](https://github.com/vandevelde-michael/projet-pxe) | Serveur de boot réseau avec WDS, DHCP et images Windows |
+| <img src="https://img.shields.io/badge/🦈-Wireshark-blue?style=flat&logo=wireshark" width="20"/> [Projet Wireshark](https://github.com/vandevelde-michael/wireshark) | Captures ARP/TCP/UDP/DNS, filtres et analyses avec tshark |
+| <img src="https://img.shields.io/badge/📄-Docs_GitHub-lightgrey?style=flat&logo=github" width="20"/> [Documentation projets](https://github.com/vandevelde-michael/doc-projets) | Fiches techniques, rendus et slides de mes projets IT |
 
-<a href="https://raw.githubusercontent.com/vandevelde-michael/vandevelde-michael/main/giroud.jpg">
-  <img src="https://raw.githubusercontent.com/vandevelde-michael/vandevelde-michael/main/giroud.jpg" width="200" />
-</a>
-<a href="https://github.com/MerlinFache/Projet-FanSite">
-  <strong>Projet Fan Site</strong>
-  <br><br>
-</a>
+---
 
-- J'ai aussi acquis les fondamentaux de la cybersécurité avec une formation en ligne Coursera, voici mon [certificat Google](https://www.coursera.org/account/accomplishments/verify/T7KB4XW87WXE) :
+## 📫 Contact
 
-<a href="https://raw.githubusercontent.com/vandevelde-michael/vandevelde-michael/main/google%20certificate.png">
-  <img src="https://raw.githubusercontent.com/vandevelde-michael/vandevelde-michael/main/google%20certificate.png" width="200" />
-</a>
+<p>
+  <a href="mailto:vandevelde.michael31@gmail.com"><img src="https://img.shields.io/badge/Email-vandevelde.michael31%40gmail.com-red?style=flat&logo=gmail" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/vandevelde-michael/"><img src="https://img.shields.io/badge/LinkedIn-Michael-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+</p>
 
-## 🤝 Connect with me:
+---
 
-<a href="mailto:michael.vandevelde@laplateforme.io"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="35px" /></a>
-<a href="https://www.instagram.com/le_mikyyy"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="35px" /></a>
-<a href="https://x.com/Vandevelde_Mi"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="35px" /></a>
-<a href="https://github.com/vandevelde-michael"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="35px" /></a>
-<a href="https://vandevelde-michael.github.io/portfolio/"><img src="https://img.icons8.com/color/48/000000/web-design.png" alt="Portfolio" width="35px" /></a>
-<a href="https://linkedin.com/in/michael-vandevelde-81625033b"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="35px" /></a>
+### 🚀 On continue d'apprendre !
 
-## 🛠️ Skills en apprentissage:
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
-
-## 📊 Mes statistiques GitHub
-
-### Statistiques GitHub :
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vandevelde-michael&show_icons=true&count_private=true&hide_title=true&hide=prs)
-
-### Langages utilisés :
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vandevelde-michael&layout=compact)
-
+Toujours à l'affût de nouveaux challenges en automation, sécurité et infrastructures réseaux. N'hésite pas à jeter un œil à mes projets et me contacter pour collaborer !  
