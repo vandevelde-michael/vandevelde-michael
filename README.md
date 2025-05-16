@@ -30,8 +30,8 @@
 
 
 ### 📡 Cisco Network Learning (en cours)
-- **Cisco Network Essentials** – Débuté le 28 août 2024
-- **IT Essentials 7** – Débuté le 11 septembre 2024
+- **Cisco Network Essentials** – Débuté le 28 Mars 2025
+- **IT Essentials 7** –
 - Plateforme : Galactus Digital / Cisco Academy
 
 ---
