@@ -24,9 +24,10 @@
 
 <p align="center">
   <a href="https://coursera.org/verify/7TX84W2W7XK">
-    <img src="https://raw.githubusercontent.com/vandevelde-michael/vandevelde-michael/main/assets/certificat_google_cyber.png" alt="Certificat Google" />
+    <img src="https://raw.githubusercontent.com/vandevelde-michael/vandevelde-michael/main/assets/certificat_google_cyber.png" alt="Certificat Google" width="600" />
   </a>
 </p>
+
 
 ### 📡 Cisco Network Learning (en cours)
 - **Cisco Network Essentials** – Débuté le 28 août 2024
