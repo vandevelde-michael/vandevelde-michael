@@ -9,6 +9,7 @@
 </h1>
 
 
+
 <p align="center" style="margin-bottom: 0;">
   💻 <strong>Futur administrateur systèmes et réseaux</strong>, actuellement en reconversion à <a href="https://laplateforme.io">La Plateforme</a>, Marseille. 💻
 </p>
