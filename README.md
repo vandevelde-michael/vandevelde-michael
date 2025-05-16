@@ -16,8 +16,7 @@ Passionné par l'automatisation, la cybersécurité et les environnements virtua
 ## 🛠️ Compétences & Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-Ubuntu-333?style=flat&logo=ubuntu" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Windows_Server-2022-0078D6?style=flat&logo=windows" alt="Windows Server" />
+  <img src="https://img.shields.io/badge/Windows_Server-2025-0078D6?style=flat&logo=windows" alt="Windows Server" />
   <img src="https://img.shields.io/badge/Bash-Scripting-informational?style=flat&logo=gnubash" alt="Bash" />
   <img src="https://img.shields.io/badge/PowerShell-PS-blue?style=flat&logo=powershell" alt="PowerShell" />
   <img src="https://img.shields.io/badge/TCP/IP-Protocol-lightgrey?style=flat" alt="TCP/IP" />
@@ -25,6 +24,7 @@ Passionné par l'automatisation, la cybersécurité et les environnements virtua
   <img src="https://img.shields.io/badge/VMware-Virtualization-607078?style=flat&logo=vmware" alt="VMware" />
   <img src="https://img.shields.io/badge/PXE/WDS-Deploy-green?style=flat" alt="PXE/WDS" />
 </p>
+
 
 ---
 
