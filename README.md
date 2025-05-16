@@ -4,7 +4,10 @@
 </p>
 
 
-# 👋 Hello World, je suis Michael Vandevelde
+<h1 align="center">
+  <code>👋 Hello World, je suis Michael Vandevelde</code>
+</h1>
+
 
 🎯 **Futur administrateur systèmes et réseaux**, actuellement en reconversion à [La Plateforme](https://laplateforme.io), Marseille.  
 🔐 Intéressé par la cybersécurité, les solutions d’automatisation, et les environnements systèmes et réseaux sous Windows Server, Linux et en virtualisation.
