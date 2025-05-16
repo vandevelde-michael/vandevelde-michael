@@ -1,12 +1,9 @@
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/vandevelde-michael/vandevelde-michael/main/assets/banner_cyber.png" alt="Cyber Banner" style="width:100%;" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vandevelde-michael/vandevelde-michael/main/assets/hello_world.png" alt="Hello World" />
-</p>
-
-# 👋 Je suis Michael Vandevelde
+# 👋 Hello World, je suis Michael Vandevelde
 
 🎯 **Futur administrateur systèmes et réseaux**, actuellement en reconversion à [La Plateforme](https://laplateforme.io), Marseille.  
 🔐 Intéressé par la **cybersécurité**, l'**automatisation**, et les environnements **Windows Server**, **Linux**, **virtualisés**, et **réseau**.
@@ -19,7 +16,7 @@
 
 <p align="center">
   <a href="https://coursera.org/verify/7TX84W2W7XK">
-    <img src="https://raw.githubusercontent.com/vandevelde-michael/vandevelde-michael/main/assets/certificat_google_cyber.png" alt="Certificat Google" />
+    <img src="https://raw.githubusercontent.com/vandevelde-michael/vandevelde-michael/main/assets/Certificat_Google_Cyber.png" alt="Certificat Google" />
   </a>
 </p>
 
