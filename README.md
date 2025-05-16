@@ -13,7 +13,7 @@
   💻 <strong>Futur administrateur systèmes et réseaux</strong>, actuellement en reconversion à <a href="https://laplateforme.io">La Plateforme</a>, Marseille. 💻
 </p>
 <p align="center">
-  💥 Intéressé par la cybersécurité, les solutions d’automatisation, et les environnements systèmes et réseaux sous Windows Server, Linux et en virtualisation. 💥
+  💥 Intéressé par les solutions d’automatisation, et les environnements systèmes et réseaux sous Windows Server, Linux et en virtualisation. 💥
 </p>
 
 
